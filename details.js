@@ -1,5 +1,5 @@
 module.exports = {
-    token: '5166228737:AAGNGYOOX6chNLMA9KMFvnR-zZq_GYq470E',
+    token: '5781504608:AAHKZOuu4semPrp5SIDlYl9GoQcPZY0cIFY',
     admins: [5323259352],
     curr:'INR'
 }
